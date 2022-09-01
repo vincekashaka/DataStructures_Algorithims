@@ -9,6 +9,6 @@ public class Output {
         System.out.println(Arrays.toString(new int[] {2, 3, 4, 1}));
 
         String name = null;
-        System.out.println(name );
+        System.out.println(name);
     }
 }
