@@ -25,7 +25,7 @@ public class Bubble {
                     swapped = true;
                 }
             }
-            //if yoou ddi not swapp for a particular value of i it meanes the array is sorted
+            //if you did not swapp for a particular value of i it means the array is sorted
             if (!swapped){ //
                 break;
             }
