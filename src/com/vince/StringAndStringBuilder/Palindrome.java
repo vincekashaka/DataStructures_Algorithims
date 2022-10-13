@@ -2,7 +2,7 @@ package com.vince.StringAndStringBuilder;
 
 public class Palindrome {
     public static void main(String[] args) {
-        String str = "abcdcba";
+        String str = "racecar";
         System.out.println(isPalidrome(str));
 
     }
