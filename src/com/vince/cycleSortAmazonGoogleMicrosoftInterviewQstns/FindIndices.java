@@ -1,4 +1,4 @@
-package com.vince.cycleSortAmazonGoogleMicrosoftInterviewQstns;
+Opackage com.vince.cycleSortAmazonGoogleMicrosoftInterviewQstns;
 
 public class FindIndices {
     public static void main(String[] args) {
@@ -19,6 +19,9 @@ public class FindIndices {
             for (int j = 0; j < arr.length; j++){
                 if (arr[i] + arr[j] == target && i != j){
                     return index;
+
+
+
                 }
             }
         }
